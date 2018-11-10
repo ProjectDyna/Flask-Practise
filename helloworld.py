@@ -4,6 +4,7 @@ from flask_mail import Mail, Message
 
 app = Flask(__name__)
 
+print("Hello World")
 # # mail function in flask
 # mail = Mail(app)
 
